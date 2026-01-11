@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <h3> My name is mazen, and I'm interested in Software Engineering! </h3>
+  <h3> My name is Mazen, and I'm interested in Software Engineering! </h3>
 </div>
 
 ### Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,py,cs,dotnet,git,github,linux,postgres,mysql&perline=7)](https://skillicons.dev)
+
