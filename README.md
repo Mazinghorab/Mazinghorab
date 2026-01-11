@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> My name is Mazen, and I'm interested in Software Engineering! </h3>
+  My name is Mazen, and I'm interested in Software Engineer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </div>
 
 ### Tools & Technologies
