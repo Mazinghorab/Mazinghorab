@@ -2,8 +2,8 @@
 <h2> Hallo alle. </h2>
 </div>
 
-<div align="center">
-  My name is Mazen, and I'm interested in Software Engineer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<div align = "center">
+  <h2> My name is Mazen, and I'm interested in Software Engineering </h2>
 </div>
 
 ### Tools & Technologies
