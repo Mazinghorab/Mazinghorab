@@ -1,4 +1,6 @@
-### Hallo alle.
+<div align = "center">
+<h2> Hallo alle. </h2>
+</div>
 
 <p align="center">
   My name is mazen, and I'm interested in Software Engineering!
