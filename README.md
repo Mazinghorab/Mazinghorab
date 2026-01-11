@@ -2,7 +2,7 @@
   <h2> Hallo alle. </h2>
 </div>
 
-<h3> My name is Mazen, and I'm interested in Software Engineering </h3>
+<p align = "center"><a href = "https://anuraghazra.github.io"><img width = "80%" alt = "I'm Mazen. I do Back-end!" src = "./assets/gh-readme-header.png" /></a></p>
 
 ### Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,py,cs,dotnet,git,github,linux,postgres,mysql&perline=7)](https://skillicons.dev)
