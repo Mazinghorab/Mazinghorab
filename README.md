@@ -1,7 +1,3 @@
-<div align = "center">
-  <h2> Hallo alle. </h2>
-</div>
-
 <p align = "center"><img width = "80%" alt = "Hello, I'm Mazen. I do Back-end!" src = "photo.png" /></a></p>
 
 ### Tools & Technologies
