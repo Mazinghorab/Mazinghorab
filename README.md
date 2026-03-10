@@ -1,4 +1,4 @@
-# Hallo alle
+# Hi Everyone
 I'm Mazen, Currently diving into Back-end Archeticture and Technologies
 
 ### Tools & Technologies
