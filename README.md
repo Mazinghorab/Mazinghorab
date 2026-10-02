@@ -3,7 +3,7 @@
 
 - Documenting and Studying DL/CV
 - Building real projects with end-to-end pipelines, clean code, and full documentation.
-- Doing educational content on my webiste
+- Doing educational content on my webiste "not yet"
 
 |![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mazinghorab&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mazinghorab&theme=dracula)|
 |-----|------|
