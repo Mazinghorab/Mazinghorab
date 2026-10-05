@@ -1,9 +1,10 @@
 ## Mazin
 **Aspiring computer vision Research | CS Junior**
 
-- Documenting and Studying DL/CV
+- Documenting and Studying DL/CV.
 - Building real projects with end-to-end pipelines, clean code, and full documentation.
-- Doing educational content on my webiste "not yet"
+- Doing educational content here in my Github repositories.
+- i also like Contributing to [oss](https://gist.github.com/Mazinghorab/f19284079ee55a7694052bc268beac87).
 
 |![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mazinghorab&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mazinghorab&theme=dracula)|
 |-----|------|
