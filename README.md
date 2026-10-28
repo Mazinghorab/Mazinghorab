@@ -1,6 +1,6 @@
 <h1 align="center">Mazin</h1>
 <p align="center"> MLOps Engineer | CS Student </p>
-<p align="center">Deploy, Test, and Monitor!</p>
+<p align="center"> Test, Deploy, and Monitor!</p>
 
 ## 🛠️ Tools and Frameworks
 
