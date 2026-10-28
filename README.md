@@ -1,17 +1,36 @@
-## Mazin
-**Aspiring computer vision Research | CS Junior**
+<h1 align="center">Mazin</h1>
+<p align="center"> MLOps Engineer | CS Student </p>
+<p align="center">Deploy, Test, and Monitor!</p>
 
-- Documenting and Studying DL/CV.
-- Enthusiastic about Computer graphics and 3D Computer vision.
-- Building real projects with end-to-end pipelines, clean code, and full documentation.
-- Doing educational content here in my Github repositories.
+## 🛠️ Tools and Frameworks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,neovim,bash,git,docker,kubernetes" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,rust,py,fastapi" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
+  </a>
+</p>
+
 - I also like Contributing to [oss](https://gist.github.com/Mazinghorab/f19284079ee55a7694052bc268beac87).
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mazinghorab&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mazinghorab&theme=dracula)|
-|-----|------|
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mazinghorab&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mazinghorab&theme=dracula" />
+</div>
 
 ## Contact me
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmazen-ghourab-ba771a30a%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_android)](https://www.linkedin.com/in/mazen-ghourab-ba771a30a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![google](https://www.readmecodegen.com/api/social-icon?name=google&size=32&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F1%2F%23sent%3Fcompose%3DDmwnWrRspgvghvkJtWgsBsJljSLNnckSJwPBlNRPxRVxvGHZSrdpkFcDkXtHslNlhzHPCxQwMmtv)](https://mail.google.com/mail/u/1/#sent?compose=DmwnWrRspgvghvkJtWgsBsJljSLNnckSJwPBlNRPxRVxvGHZSrdpkFcDkXtHslNlhzHPCxQwMmtv)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmazen-ghourab-ba771a30a)](https://www.linkedin.com/in/mazen-ghourab-ba771a30a)
+[![email](https://www.readmecodegen.com/api/social-icon?name=google&size=32&link=mailto%3Amazenghorab55%40gmail.com)](mailto:mazenghorab55@gmail.com)
 [![leetcode](https://www.readmecodegen.com/api/social-icon?name=leetcode&size=32&link=https%3A%2F%2Fleetcode.com%2Fu%2FMazen_Mustafa%2F)](https://leetcode.com/u/Mazen_Mustafa/)
 [![codeforces](https://www.readmecodegen.com/api/social-icon?name=codeforces&size=32&color=%233b82f6)](https://codeforces.com/profile/MZN24)
