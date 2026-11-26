@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,neovim,bash,git,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,neovim,bash,git,docker,kubernetes,githubactions" />
   </a>
 </p>
 
